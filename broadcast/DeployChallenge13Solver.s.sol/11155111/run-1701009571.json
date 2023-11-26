@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "hash": "0xa8cbcaa7718bf7b83a633d722c52beb96388f58e058a43a9f1596ed8b4a5f9b8",
+      "transactionType": "CREATE",
+      "contractName": "Challenge13Solver",
+      "contractAddress": "0x9e60CeED4d2A370493F4B0BBeF7D6785928Ca411",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x31e0facea072ee621f22971df5bae3a1317e41a4",
+        "gas": "0x24980",
+        "value": "0x0",
+        "data": "0x60a060405234801561001057600080fd5b503360805260805161011f61002f60003960006044015261011f6000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80638da5cb5b146037578063f2c9ecd8146073575b600080fd5b6040516001600160a01b037f00000000000000000000000000000000000000000000000000000000000000001681526020015b60405180910390f35b60796086565b604051908152602001606a565b6000600a60a873643315c9be056cdea171f4e7b2222a4ddab9f88d61053960b5565b60b0919060b5565b905090565b818103600083128015838313168383128216171560e257634e487b7160e01b600052601160045260246000fd5b509291505056fea26469706673582212208d0c97f33f3cefeba90c00164da0de6e752220c31aa92c30619b61b970afb7f364736f6c63430008140033",
+        "nonce": "0x137",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0xa8cbcaa7718bf7b83a633d722c52beb96388f58e058a43a9f1596ed8b4a5f9b8"
+  ],
+  "returns": {
+    "0": {
+      "internal_type": "contract Challenge13Solver",
+      "value": "0x9e60CeED4d2A370493F4B0BBeF7D6785928Ca411"
+    }
+  },
+  "timestamp": 1701009571,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "5e56416"
+}

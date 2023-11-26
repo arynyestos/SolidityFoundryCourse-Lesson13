@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "hash": "0x7b7debf812b00c0ec53ebcc4d58591318f0b0ec600c01a7442a3b386589b5ccb",
+      "transactionType": "CREATE",
+      "contractName": "Challenge13Solver",
+      "contractAddress": "0x67340596465E2122F724d45cAE1628F01350e563",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x31e0facea072ee621f22971df5bae3a1317e41a4",
+        "gas": "0x1d77a",
+        "value": "0x0",
+        "data": "0x60a060405234801561001057600080fd5b503360805260805160b761002d60003960006044015260b76000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80638da5cb5b146037578063f2c9ecd8146073575b600080fd5b6040516001600160a01b037f00000000000000000000000000000000000000000000000000000000000000001681526020015b60405180910390f35b60405160028152602001606a56fea264697066735822122074f806dba37b52600a71c8b2ec64865b1501019acf2ac286d488b6412902e94564736f6c63430008140033",
+        "nonce": "0x131",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x7b7debf812b00c0ec53ebcc4d58591318f0b0ec600c01a7442a3b386589b5ccb"
+  ],
+  "returns": {
+    "0": {
+      "internal_type": "contract Challenge13Solver",
+      "value": "0x67340596465E2122F724d45cAE1628F01350e563"
+    }
+  },
+  "timestamp": 1701007195,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "5e56416"
+}
